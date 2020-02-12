@@ -1,6 +1,6 @@
 ## TTS项目架构图
 
-![](https://github.com/user-wbgithub/BigData/blob/master/TTS/images/1.png)
+![](https://github.com/user-wbgithub/BigData/blob/master/TTS/Images/1.png)
 
 ## 知识内容
 
