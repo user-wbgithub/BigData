@@ -1,0 +1,1 @@
+## flume的HiveSink总体是下面这样的
